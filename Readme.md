@@ -1,5 +1,5 @@
-# Automated Image Slider
+# 🥇 Automated Image Slider
 
-> **Built-Using-HTML-and CSS**
+> 👍 **Built-Using-HTML-and CSS**
 
 ![screenshot](img/Screenshot.png);
